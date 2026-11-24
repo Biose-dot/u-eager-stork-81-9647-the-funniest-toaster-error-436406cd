@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "ERROR 0xBREAD: Toast achieved sentience and left. Please insert bread and lower your expectations."
+ENTRY = "ERR_TOAST_404: Bread not found. The toaster has filed for divorce and taken the crumbs."
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
