@@ -8,7 +8,7 @@ A toaster error in the shape of a real device message (ERR_CRUST) with a straigh
 """
 import os
 
-ENTRY = 'ERROR 0xBREAD: Toast achieved sentience, refused to brown, and has filed for emancipation.'
+ENTRY = 'ERR_CRUST: Bread refused to brown. It has unionized with the bagels and demands better heating.'
 
 
 def main() -> None:
